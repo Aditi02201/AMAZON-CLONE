@@ -33,7 +33,7 @@ function Home() {
              title="boAt Storm SmartWatch- Best Fitness and Activities Tracker(Midnightblue)"
              price={199.99}
              rating={3}
-             image="https://cdn.shopify.com/s/files/1/0057/8938/4802/products/storm-blue_540x.png?v=1620627642"
+             image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPSkLty_MUiRJEa3jqihB4gccI_KTdrfwjZScx-E2Jmb6w6_q8kbfh-KQVB8rpW6cdAC9Yw2sh&usqp=CAc"
            />
            <Product
              id="23445930"
